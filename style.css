@@ -1,0 +1,10 @@
+#musicsection{
+padding-top: 50px;
+
+}
+
+#musicsection p{
+font-size: 20px;
+background-color: aliceblue;
+font-style: italic, bold , oblique;
+}
